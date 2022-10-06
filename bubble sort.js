@@ -11,4 +11,4 @@ function bubbleSort(arr){
             }
             console.log(arr);
 }
-bubbleSort([1,3,4,5,2]);
+bubbleSort([1,3,2,5,2]);
